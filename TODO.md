@@ -2,7 +2,7 @@
 
 ## Steps to Complete (Approved Plan)
 
-### 1. Part 4: Modify and Track Changes (main branch) [PENDING]
+### 1. Part 4: Modify and Track Changes (main branch) [✅ COMPLETE]
    - Edit README.md: Append 'This is my first Git laboratory activity.'
    - Create hello.py: print("Hello GitHub!")
    - git status, git add ., git commit -m "Added hello.py and updated README", git push origin main
@@ -23,4 +23,4 @@
 ### 5. Part 9: Pull Request [PENDING]
    - gh pr create/merge
 
-**Progress: Starting Step 1**
+**Progress: Step 1 complete, starting Step 2**
