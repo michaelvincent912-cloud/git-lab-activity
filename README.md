@@ -2,4 +2,4 @@
 
 This is my first Git laboratory activity.
 
-This is a main branch conflict demo update.
+This is feature-conflict2 update (for merge conflict demo).
